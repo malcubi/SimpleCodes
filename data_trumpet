@@ -1,0 +1,4 @@
+0.00125		# Grid spacing
+16000		# Total number of grid points
+0.504		# Coefficient of v(0)
+

@@ -1,0 +1,8 @@
+0.05		! Grid spacing
+0.025		! Time step
+0.0		! Mass
+2000		! Total number of grid points
+1000		! Total number of time steps
+50		! Frequency of output
+icn		! Integration method (icn)
+

@@ -1,0 +1,8 @@
+0.025		! Grid spacing
+0.0125		! Time step
+1.0		! Wave speed
+1000		! Total number of grid points
+300		! Total number of time steps
+20		! Frequency of output
+minmod		! Integration method (euler,upwind,icn,minmod)
+

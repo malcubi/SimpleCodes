@@ -1,0 +1,8 @@
+0.001d0		! Grid spacing
+100000		! Number fo grid points
+1               ! Type of run (1 = single density plot, 2 = M vs. R plot)
+2.0            ! For type=1, value of parameter k.
+
+
+
+

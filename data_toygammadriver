@@ -1,0 +1,9 @@
+0.05		! Grid spacing
+0.025		! Time step
+1000		! Total number of grid points
+1200		! Total number of time steps
+50		! Frequency of output
+1.0		! Gammadriver csi
+1.0		! Advection term coefficient
+
+

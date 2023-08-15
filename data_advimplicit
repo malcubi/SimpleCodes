@@ -1,0 +1,13 @@
+0.1		! Grid spacing
+0.1		! Time step
+1.0		! Wave speed
+100		! Total number of grid points
+200		! Total number of time steps
+1.0		! Amplitude of initial gaussian
+0.3		! Width of initial gaussian
+5.0		! Position of initial gaussian
+1		! Frequency of output
+IE-UP		! Integration method (UP=upwind,AUP=averagedupwind,CN=cranknicolson)
+1.0		! Implicit parameter theta (theta=0 explicit, theta=1 fully implicit)
+
+

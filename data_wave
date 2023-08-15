@@ -1,0 +1,8 @@
+0.05		! Grid spacing
+0.025		! Time step
+1.0		! Wave speed
+2000		! Total number of grid points
+2500		! Total number of time steps
+100		! Frequency of output
+icn		! Integration method (icn)
+
